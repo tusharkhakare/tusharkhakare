@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Paisabazaar Banking Fraud Analysis Project<br>🌱 I’m currently learning : Data Science & Analytics <br>💬 Ask me about :  Data sorting & analysis <br>⚡ # Data Enthusiast 
+🔭 I’m currently learning : Data Science & Analytics <br>💬 Ask me about :  Data sorting & analysis <br>⚡ # Data Enthusiast 
 
 
 ## 🌐 Socials:
