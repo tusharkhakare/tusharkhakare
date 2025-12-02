@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning : Data Science & Analytics <br>💬 Ask me about :  Data sorting & analysis <br>⚡ # Data Enthusiast 
+🔭  Data Science & Analytics <br>💬 Ask me about :  Data sorting & analysis <br>⚡ # Data Enthusiast 
 
 
 ## 🌐 Socials:
